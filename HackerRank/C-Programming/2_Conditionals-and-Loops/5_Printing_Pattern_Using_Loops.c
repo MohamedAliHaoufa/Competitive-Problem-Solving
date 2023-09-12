@@ -1,8 +1,6 @@
-// https://www.programiz.com/c-programming/online-compiler/
-
+#include <stdio.h>
 // solved : 25/08/2023
 
-#include <stdio.h>
 int main()
 { // Complete the code to print the pattern.
     int n = 0;
